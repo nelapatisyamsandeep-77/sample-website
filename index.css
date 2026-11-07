@@ -1,5 +1,11 @@
 .heading{
-    color:blue;
+    color:skyblue;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.para{
+    color:black;
     text-align:center;
     font-family:Arial, Helvetica, sans-serif;
 }
